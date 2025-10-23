@@ -15,7 +15,7 @@ Pertanyaan
             }
 ```
 4. Modifikasi kode program sehingga terdapat perhitungan untuk menentukan berapa mahasiswa yang lulus dan yang tidak lulus berdasarkan batas kelulusan (nilai minimal 60). Tampilkan jumlah mahasiswa lulus dan tidak lulus setelah menampilkan tertinggi dan terendah! 
-5. 5. Commit dan push kode program ke Github 
+5. Commit dan push kode program ke Github 
 
 
 Jawaban
@@ -60,4 +60,4 @@ public class SiakadFor20 {
     }
 }
 ```
-5. 5. Commit dan push kode program ke Github 
+5. Commit dan push kode program ke Github 
