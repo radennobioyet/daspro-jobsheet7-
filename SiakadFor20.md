@@ -4,6 +4,7 @@
 
 Pertanyaan
 1. Sebutkan dan tunjukkan masing-masing komponen perulangan FOR pada kode program Percobaan 1! 
+2. Mengapa variabel tertinggi diinisialisasi 0 dan terendah diinisialisasi 100? Apa yang terjadi jika variabel tertinggi diinisialisasi 100 dan terendah diinisialisasi 0?
 
 
 Jawaban
@@ -11,3 +12,4 @@ Jawaban
    a. Menentukan nilai awal variabel penghitung (i) yaitu 1.  
    b. Mengecek apakah i masih kurang dari atau sama dengan 10. Jika ya, lanjut. 
    c. Menambah nilai i sebanyak 1 setiap kali satu siklus perulangan selesai. 
+2. Tujuannya adalah agar nilai awal tidak mengganggu proses pencarian nilai tertinggi dan terendah dari input pengguna. 
