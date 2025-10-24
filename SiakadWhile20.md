@@ -16,6 +16,7 @@ b. continue
 2. Mengapa sintaks i++ dituliskan di akhir perulangan WHILE? Apa yang terjadi jika posisinya dituliskan di awal perulangan WHILE? 
 3. Apabila jumlah mahasiswa yang dimasukkan adalah 19, berapa kali perulangan WHILE akan berjalan? 
 4. Modifikasi kode program sehingga apabila terdapat mahasiswa yang mendapat nilai A, program menampilkan pesan tambahan "Bagus, pertahankan nilainya"!
+5. Commit dan push kode program ke Github 
 
 
 Jawaban
@@ -67,3 +68,4 @@ public class SiakadWhile20 {
     }
 }
 ```
+5. Commit dan push kode program ke Github 
